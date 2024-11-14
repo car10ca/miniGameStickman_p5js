@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my very first programming project! This project is a simple game developed using the Sketch.js library, showcasing my journey into coding and game development. 
+Welcome to my very first programming project! This project is a simple game developed using the p5.js library, showcasing my journey into coding and game development. 
 The game involves creating shapes and interacting with them, which has been an exciting learning experience. 
 
 This game was developed as the final project for one of the modules in my BA in Computer Science at a UK university, earning a grade of 90%, with anything above 70% considered an A.
